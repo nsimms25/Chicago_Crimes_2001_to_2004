@@ -1,0 +1,136 @@
+#Here is the output after completion of ChicagoCrimes.py
+
+python3 ChicagoCrimes.py 
+Load in Section:  1
+Load in Section:  2
+Total number of crimes commited 2001 to 2004:  2923516
+Crime breakdown: 
+                                   Number of Crimes  Percentage of Crime
+THEFT                                       395395            13.524640
+BATTERY                                     363538            12.434958
+CRIMINAL DAMAGE                             220298             7.535379
+NARCOTICS                                   210600             7.203655
+THEFT                                       202519             6.927241
+BATTERY                                     192804             6.594936
+OTHER OFFENSE                               123753             4.233019
+ASSAULT                                     121417             4.153116
+CRIMINAL DAMAGE                             115023             3.934406
+NARCOTICS                                   105215             3.598920
+BURGLARY                                    101902             3.485597
+MOTOR VEHICLE THEFT                          98924             3.383734
+ROBBERY                                      70986             2.428104
+ASSAULT                                      64595             2.209497
+OTHER OFFENSE                                64182             2.195370
+CRIMINAL TRESPASS                            57770             1.976045
+DECEPTIVE PRACTICE                           55751             1.906985
+MOTOR VEHICLE THEFT                          54122             1.851264
+BURGLARY                                     53366             1.825405
+ROBBERY                                      38105             1.303396
+DECEPTIVE PRACTICE                           28834             0.986278
+CRIMINAL TRESPASS                            28132             0.962266
+PROSTITUTION                                 25666             0.877915
+WEAPONS VIOLATION                            17094             0.584707
+PROSTITUTION                                 12804             0.437966
+OFFENSE INVOLVING CHILDREN                   11181             0.382450
+PUBLIC PEACE VIOLATION                       10145             0.347014
+WEAPONS VIOLATION                             8835             0.302205
+SEX OFFENSE                                   8535             0.291943
+CRIM SEXUAL ASSAULT                           7079             0.242140
+...                                            ...                  ...
+OFFENSE INVOLVING CHILDREN                    4931             0.168667
+SEX OFFENSE                                   4520             0.154608
+GAMBLING                                      4051             0.138566
+ARSON                                         3828             0.130938
+CRIM SEXUAL ASSAULT                           3736             0.127791
+HOMICIDE                                      3172             0.108499
+LIQUOR LAW VIOLATION                          3141             0.107439
+KIDNAPPING                                    3022             0.103369
+ARSON                                         2103             0.071934
+HOMICIDE                                      2008             0.068684
+GAMBLING                                      1925             0.065845
+KIDNAPPING                                    1802             0.061638
+INTERFERENCE WITH PUBLIC OFFICER              1701             0.058183
+INTIMIDATION                                  1312             0.044877
+STALKING                                       868             0.029690
+INTERFERENCE WITH PUBLIC OFFICER               804             0.027501
+INTIMIDATION                                   644             0.022028
+STALKING                                       421             0.014400
+OBSCENITY                                       74             0.002531
+OBSCENITY                                       47             0.001608
+PUBLIC INDECENCY                                29             0.000992
+OTHER NARCOTIC VIOLATION                        22             0.000753
+PUBLIC INDECENCY                                17             0.000581
+RITUALISM                                       15             0.000513
+OTHER NARCOTIC VIOLATION                        11             0.000376
+RITUALISM                                       11             0.000376
+DOMESTIC VIOLENCE                                2             0.000068
+DOMESTIC VIOLENCE                                1             0.000034
+IUCR                                             1             0.000034
+NON-CRIMINAL                                     1             0.000034
+
+[62 rows x 2 columns]
+Location of crimes: 
+                                              Location of Crimes
+STREET                                                   584118
+RESIDENCE                                                349772
+STREET                                                   306644
+RESIDENCE                                                189250
+APARTMENT                                                144214
+SIDEWALK                                                 140802
+OTHER                                                     78132
+APARTMENT                                                 66746
+SIDEWALK                                                  65760
+PARKING LOT/GARAGE(NON.RESID.)                            59123
+SCHOOL, PUBLIC, BUILDING                                  44898
+ALLEY                                                     43061
+OTHER                                                     42588
+RESIDENCE-GARAGE                                          38931
+RESIDENCE PORCH/HALLWAY                                   34843
+PARKING LOT/GARAGE(NON.RESID.)                            31810
+GROCERY FOOD STORE                                        31091
+SMALL RETAIL STORE                                        30541
+CHA PARKING LOT/GROUNDS                                   30117
+RESTAURANT                                                27141
+DEPARTMENT STORE                                          22438
+ALLEY                                                     22293
+SCHOOL, PUBLIC, BUILDING                                  21980
+RESIDENCE-GARAGE                                          20815
+VEHICLE NON-COMMERCIAL                                    20757
+CHA APARTMENT                                             19283
+GAS STATION                                               19102
+COMMERCIAL / BUSINESS OFFICE                              18944
+RESIDENCE PORCH/HALLWAY                                   18515
+GROCERY FOOD STORE                                        17020
+...                                                         ...
+FUNERAL PARLOR                                                1
+JAIL / LOCK-UP FACILITY                                       1
+LAUNDRY ROOM                                                  1
+CHA PLAY LOT                                                  1
+CTA PROPERTY                                                  1
+MOTEL                                                         1
+AIRPORT BUILDING NON-TERMINAL - SECURE AREA                   1
+FACTORY                                                       1
+TRUCKING TERMINAL                                             1
+PUBLIC HIGH SCHOOL                                            1
+CTA "L" TRAIN                                                 1
+LOADING DOCK                                                  1
+PUBLIC GRAMMAR SCHOOL                                         1
+LAKE                                                          1
+FUNERAL PARLOR                                                1
+JUNK YARD/GARBAGE DUMP                                        1
+JUNK YARD/GARBAGE DUMP                                        1
+PUBLIC GRAMMAR SCHOOL                                         1
+SCHOOL YARD                                                   1
+CHURCH PROPERTY                                               1
+CTA PROPERTY                                                  1
+MOTEL                                                         1
+YMCA                                                          1
+AIRPORT TERMINAL UPPER LEVEL - SECURE AREA                    1
+TRAILER                                                       1
+FACTORY                                                       1
+TRUCKING TERMINAL                                             1
+PUBLIC HIGH SCHOOL                                            1
+CTA "L" TRAIN                                                 1
+Description                                                   1
+
+[288 rows x 1 columns]
